@@ -1,0 +1,14 @@
+h1{
+	color:pink;
+
+}
+.strawberries{
+	color:red;
+	font-size: 15px;
+	font-weight: bold
+}
+.coffee{
+	color:teal;
+	text-decoration: underline;
+	font-style: italic
+}
